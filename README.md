@@ -1,15 +1,21 @@
+
+
+![image](https://user-images.githubusercontent.com/87590342/200137421-8668f64d-e6a5-4e1d-90fb-e8351c7f89a7.png)
 ### Olá! Eu sou a Julyane Pereira👋
 
-
-- 🔭 Atualmente trabalho com projetos de desenvolvimento de software
+- 👩🏾‍💼 Atualmente trabalho com projetos de desenvolvimento de software
+- 🔭 Graduada em Tecnologia em Redes de Computadores
+- 🔭 Graduanda em Engenharia de Software
 - 🌱 Estudando desenvolvimento Web com C# .Net Core
-- 📫 Contate-me no email: eng.julyane@gmail.com
 - 😄 Pronouns: ela/dela
+
+
 
 <div align="center">
   <a href="https://github.com/julypereira">
-  <img height="145m" src="https://github-readme-stats.vercel.app/api?username=julypereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="145m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julypereira&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=julypereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julypereira&layout=compact&langs_count=7&theme=dracula">
+  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
