@@ -1,6 +1,6 @@
 
 
-![image](https://user-images.githubusercontent.com/87590342/200137421-8668f64d-e6a5-4e1d-90fb-e8351c7f89a7.png)
+
 ### Olá! Eu sou a Julyane Pereira👋
 
 - 👩🏾‍💼 Atualmente trabalho com projetos de desenvolvimento de software
